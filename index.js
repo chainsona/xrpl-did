@@ -28,7 +28,6 @@ const DID_DOCUMENT_URL = "https://www.xrpl-commons.org/";
   // Log wallet details for reference
   console.log('Wallet details:', {
     address: wallet.address,
-    seed: wallet.seed,
     publicKey: wallet.publicKey
   });
 
